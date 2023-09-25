@@ -15,7 +15,7 @@
 -----------------------------------------------------------------------
 
 <a href="https://docs.unrealengine.com/5.3/en-US/"> 
-  <img align="top" alt="Unreal Engine Template" src="https://img.shields.io/badge/Unreal%20Engine%20Template-00549F?style=for-the-badge&logo=wwise&logoColor=white&color=black&labelColor=00549F"> </a>
+  <img align="top" alt="Unreal Engine Template" src="https://img.shields.io/badge/Unreal%20Engine%20Template-black?style=for-the-badge&logo=unrealengine&logoColor=white&color=black&labelColor=black"> </a>
   
   -----------------------------------------------------------------------
 
