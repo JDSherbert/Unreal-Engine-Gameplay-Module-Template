@@ -151,7 +151,7 @@ Your module should be able to compile, but to use any code from your module in y
 
 Open the MyProject root directory, then open MyProject.uproject in a text editor and edit your "Modules" list as follows:
 
-###MyProject.uproject
+### MyProject.uproject
 ```
 "Modules":
 [
@@ -172,7 +172,7 @@ By comparison, Editor modules can only run in the editor. It also uses the Defau
 
 Navigate to your MyProject/Source folder, then open the MyProject.Build.cs file. Add ModuleTest to your PublicDependencyModuleNames list. It should as follows:
 
-###MyProject.Build.cs
+### MyProject.Build.cs
 ```
 PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "ModuleTest" });
 ```
