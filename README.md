@@ -7,9 +7,9 @@
 <a href = "https://learn.microsoft.com/en-us/cpp/c-language"> <img height="40" img width="40" src="https://cdn.simpleicons.org/c"> </a>
 <a href = "https://learn.microsoft.com/en-us/cpp/cpp-language"> <img height="40" img width="40" src="https://cdn.simpleicons.org/c++"> </a>
 <a href = "https://learn.microsoft.com/en-us/dotnet/csharp"> <img height="40" img width="40" src="https://cdn.simpleicons.org/csharp"> </a>
-<img align="right" alt="stars badge" src="https://img.shields.io/github/stars/jdsherbert/unrealengine-filestructureexample"/>
-<img align="right" alt="forks badge" src="https://img.shields.io/github/forks/jdsherbert/unrealengine-filestructureexample?label=Fork"/>
-<img align="right" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert/unrealengine-filestructureexample"/>
+<img align="right" alt="stars badge" src="https://img.shields.io/github/stars/jdsherbert/unreal-engine-template-module"/>
+<img align="right" alt="forks badge" src="https://img.shields.io/github/forks/jdsherbert/unreal-engine-template-module?label=Fork"/>
+<img align="right" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert/unreal-engine-template-module"/>
 <!-- Header End --> 
 
 -----------------------------------------------------------------------
