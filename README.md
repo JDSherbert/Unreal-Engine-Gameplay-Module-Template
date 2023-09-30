@@ -19,9 +19,7 @@
   
 <a href="https://choosealicense.com/licenses/unlicense/"> 
   <img align="right" alt="License" src="https://img.shields.io/badge/License%20:%20Unlicense-black?style=for-the-badge&logo=unlicense&logoColor=white&color=black&labelColor=black"> </a>
-
 <br></br>
-
 -----------------------------------------------------------------------
 
 ## Overview
